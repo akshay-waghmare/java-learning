@@ -1,6 +1,6 @@
 
 tasks:
-  - init: mvn clean install -DskipTests=true # runs during prebuild
+  - init: cd baeldung && mvn clean install -DskipTests=true # runs during prebuild
     command: echo 'start script'
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
