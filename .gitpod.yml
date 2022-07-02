@@ -15,3 +15,4 @@ vscode:
     - vscjava.vscode-maven
     - vscjava.vscode-java-dependency
     - vscjava.vscode-java-pack
+    - vscjava.vscode-java-test
