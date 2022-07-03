@@ -1,10 +1,13 @@
 {
     "java.configuration.runtimes": [
+        
+
 
         {
             "name": "JavaSE-11",
             "path": "/home/gitpod/.sdkman/candidates/java/11.0.15.fx-zulu",
             "default": true
           }
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
